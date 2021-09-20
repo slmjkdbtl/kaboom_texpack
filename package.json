@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "kaboom": "^2000.0.0-beta.19"
+  },
+  "devDependencies": {
+    "free-tex-packer-core": "^0.3.4"
+  }
+}

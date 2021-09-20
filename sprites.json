@@ -1,0 +1,224 @@
+{
+    "lamp": {
+        "x": 0,
+        "y": 0,
+        "width": 86,
+        "height": 258
+    },
+    "gigagantrum": {
+        "x": 0,
+        "y": 258,
+        "width": 186,
+        "height": 204
+    },
+    "cut": {
+        "x": 86,
+        "y": 0,
+        "width": 82,
+        "height": 190
+    },
+    "apple": {
+        "x": 86,
+        "y": 190,
+        "width": 58,
+        "height": 68
+    },
+    "meat": {
+        "x": 144,
+        "y": 190,
+        "width": 66,
+        "height": 66
+    },
+    "kaboom": {
+        "x": 168,
+        "y": 0,
+        "width": 152,
+        "height": 109
+    },
+    "pineapple": {
+        "x": 168,
+        "y": 109,
+        "width": 64,
+        "height": 80
+    },
+    "boom": {
+        "x": 0,
+        "y": 462,
+        "width": 137,
+        "height": 109
+    },
+    "cloud": {
+        "x": 0,
+        "y": 571,
+        "width": 222,
+        "height": 104
+    },
+    "jacob": {
+        "x": 137,
+        "y": 462,
+        "width": 137,
+        "height": 103
+    },
+    "brock": {
+        "x": 186,
+        "y": 256,
+        "width": 124,
+        "height": 102
+    },
+    "door": {
+        "x": 210,
+        "y": 189,
+        "width": 64,
+        "height": 64
+    },
+    "portal": {
+        "x": 232,
+        "y": 109,
+        "width": 64,
+        "height": 80
+    },
+    "grass": {
+        "x": 274,
+        "y": 189,
+        "width": 64,
+        "height": 64
+    },
+    "goldfly": {
+        "x": 296,
+        "y": 109,
+        "width": 163,
+        "height": 79
+    },
+    "bomb": {
+        "x": 186,
+        "y": 358,
+        "width": 80,
+        "height": 90
+    },
+    "grape": {
+        "x": 266,
+        "y": 358,
+        "width": 59,
+        "height": 86
+    },
+    "gazer": {
+        "x": 310,
+        "y": 253,
+        "width": 153,
+        "height": 85
+    },
+    "jumpy": {
+        "x": 338,
+        "y": 188,
+        "width": 64,
+        "height": 64
+    },
+    "sand": {
+        "x": 402,
+        "y": 188,
+        "width": 64,
+        "height": 64
+    },
+    "googoly": {
+        "x": 320,
+        "y": 0,
+        "width": 68,
+        "height": 84
+    },
+    "bag": {
+        "x": 388,
+        "y": 0,
+        "width": 85,
+        "height": 75
+    },
+    "spike": {
+        "x": 388,
+        "y": 75,
+        "width": 58,
+        "height": 28
+    },
+    "lightening": {
+        "x": 459,
+        "y": 75,
+        "width": 51,
+        "height": 75
+    },
+    "key": {
+        "x": 459,
+        "y": 150,
+        "width": 65,
+        "height": 38
+    },
+    "snow": {
+        "x": 473,
+        "y": 0,
+        "width": 64,
+        "height": 64
+    },
+    "steel": {
+        "x": 510,
+        "y": 64,
+        "width": 64,
+        "height": 64
+    },
+    "pizza": {
+        "x": 537,
+        "y": 0,
+        "width": 54,
+        "height": 64
+    },
+    "ka": {
+        "x": 591,
+        "y": 0,
+        "width": 152,
+        "height": 54
+    },
+    "bobo": {
+        "x": 743,
+        "y": 0,
+        "width": 105,
+        "height": 44
+    },
+    "watermelon": {
+        "x": 848,
+        "y": 0,
+        "width": 84,
+        "height": 52
+    },
+    "bean": {
+        "x": 743,
+        "y": 44,
+        "width": 64,
+        "height": 54
+    },
+    "coin": {
+        "x": 807,
+        "y": 44,
+        "width": 36,
+        "height": 44
+    },
+    "heart": {
+        "x": 591,
+        "y": 54,
+        "width": 58,
+        "height": 52
+    },
+    "egg": {
+        "x": 649,
+        "y": 54,
+        "width": 52,
+        "height": 64
+    },
+    "egg_crack": {
+        "x": 574,
+        "y": 106,
+        "width": 52,
+        "height": 64
+    },
+    "mushroom": {
+        "x": 574,
+        "y": 170,
+        "width": 52,
+        "height": 43
+    }
+}
