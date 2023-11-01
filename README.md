@@ -1,3 +1,7 @@
+**DEPRECATED** Kaboom v3000 now has automatic texture packing by default with `loadSprite()`, manual texture packing is now unnecessary.
+
+---
+
 Example to use Kaboom with a texture packer ([`free-tex-packer-core`](https://www.npmjs.com/package/free-tex-packer-core) in this case)
 
 To build the sprite atlas
